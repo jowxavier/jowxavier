@@ -27,7 +27,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ![CakePHP](https://img.shields.io/badge/cakephp-DC322F.svg?style=for-the-badge&logo=cakephp&logoColor=white)
 ![Codeigniter](https://img.shields.io/badge/codeigniter-FF6C37.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
